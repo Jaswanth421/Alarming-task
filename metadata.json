@@ -1,0 +1,5 @@
+{
+  "name": "Alarming Tasks",
+  "description": "A smart to-do list with integrated alarms, user dashboard, and task management.",
+  "requestFramePermissions": ["notifications"]
+}
